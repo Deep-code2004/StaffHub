@@ -1,2 +1,21 @@
-# StaffHub
-StaffHub Is A Task Managing  Project  In This A One page For Admin and One Page For Employ Where Admin Can Allocate Task To Employ And Employ Get Notification And Also They Can Change The Status Of Task .....(For More Information Download The Project This Repo)
+# Task Management System
+### A simple Task Management System built with PHP, MySQL, and XAMPP that allows users (admin and employees) to manage tasks, assign roles, track task progress, and receive notifications.
+
+
+## Features
+
++ User Role Management: Supports two roles - Admin and Employee.
++ Task Management: Create, update, delete, and view tasks.
++ Task Categorization: Filter tasks by status, and due date.
++ Authentication and Authorization: Secure login system with role-based access control.
++ Notifications: Notify users of assigned tasks and important updates.
++ Task Filtering: Filter tasks by priority, status, deadline.
++ Task Deadlines: Track due dates and overdue tasks.
+
+## Requirements
+
++ XAMPP (PHP, MySQL, Apache)
++ PHP 7.4 or higher
++ MySQL 5.7 or higher
+
+
